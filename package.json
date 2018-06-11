@@ -1,6 +1,6 @@
 {
-  "name": "serverless-kubeless",
-  "version": "0.4.2",
+  "name": "@useful/serverless-kubeless",
+  "version": "0.4.2-beta.1",
   "description": "This plugin enables support for Kubeless within the [Serverless Framework](https://github.com/serverless).",
   "main": "index.js",
   "directories": {
